@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spsfia
-- 👀 I’m interested in Desing and creativity
-- 🌱 I’m currently learning iOS
+- 👀 I’m interested in UX/UI experience
+- 🌱 I’m currently learning AI development
 - 📫 How to reach me  -> asofiasc.03@gmail.com
 
 <!---
